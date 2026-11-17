@@ -35,6 +35,6 @@ Landing page dan CRUD produk menggunakan Laravel 12
 Jalankan `php artisan test`.
 
 ## Penyusun
-Nama peserta: Muhammad Andra FAuzi
+Nama peserta: Muhammad Andra Fauzi
 Kelas: XII RPL 2
 Tanggal: 17/11/2026
